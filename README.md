@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Rahul Dahiya
 
-Welcome to my GitHub!  
-I’m a software developer who loves building scalable web applications and creating data-driven solutions that actually make an impact.
+Software Developer with expertise in Java, JavaScript, React.js, and MySQL, skilled in developing scalable web
+applications and improving workflow efficiency. Experienced in full-stack development with Next.js, TypeScript,
+and Prisma. Passionate about problem-solving and delivering data-driven solutions.
 
 ---
 
