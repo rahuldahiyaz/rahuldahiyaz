@@ -20,7 +20,7 @@ I’m a software developer who loves building scalable web applications and crea
 ### Order Management System  
 <sub>Next.js | TypeScript | MySQL | Prisma | Tailwind CSS</sub>  
 Mar 2025 – July 2025  
-[Check it out on GitHub](https://github.com/rahulxdahiya/rahulxdahiya)  
+[Check it out on GitHub](https://github.com/rahuldahiyaz/rahulxdahiya)  
 - Built a multi-role dashboard to streamline order processing  
 - Automated order tracking, reducing manual effort by 20%  
 - Optimized search and indexing, improving lookup speed by 35%  
